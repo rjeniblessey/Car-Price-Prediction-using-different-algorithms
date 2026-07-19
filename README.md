@@ -1,4 +1,4 @@
-Car Price Prediction
+# Car Price Prediction
 
 A machine learning project that explores a used-car dataset and trains several regression models to predict car values based on features like year, present price, kilometers driven, fuel type, and transmission.
 
